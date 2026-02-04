@@ -106,9 +106,7 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+The LST and SST sessions at the Skill India Institute played a significant role in shaping my professional and personal development. These sessions enhanced my understanding of professional ethics, effective communication, and workplace awareness. Through work culture and advocacy discussions, I developed a strong appreciation for integrity, gender equality, and respectful conduct in professional environments. Additionally, yoga and mindfulness practices helped me build self-discipline and manage stress effectively, while community engagement with elderly citizens strengthened my empathy and sense of social responsibility. Overall, these sessions contributed to my career readiness, personal growth, and a balanced lifestyle.
 
 ## **Community Services**
 
