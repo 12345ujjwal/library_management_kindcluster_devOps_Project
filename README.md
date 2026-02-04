@@ -87,14 +87,18 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
   Developed a Library Management System using React and Kubernetes Ingress for efficient routing. The application was deployed on a KIND cluster and integrated with MongoDB for reliable data storage and management.
 </p>
 <p>
-  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/12345ujjwal/library_management_kindcluster_devOps_Project/blob/6f07ce1524f6ddcf9899a4086511db6c180ad6fd/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
-
+- [Kubernetes](https://kubernetes.io/docs/home/)
+- [Docker](https://docs.docker.com/)
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download)
+- [Chagpt](https://chatgpt.com/)
+- [w3schools](https://www.w3schools.com/)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
