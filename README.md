@@ -22,7 +22,7 @@
     <p><strong>Email ID:</strong> 12345ujjwalpratap@gmail.com </p>
     <p><strong>College Name:</strong> Khwaja Moinuddin Chishti Language University, Lucknow </p>
     <p><strong>Branch/Specialization :</strong> B.Tech CSE </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>College Enrollment No:</strong> A-9606 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
