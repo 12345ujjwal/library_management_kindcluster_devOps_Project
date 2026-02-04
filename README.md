@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mr. Jasdeep Singh Hanspal </p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> Jasdeep.jsh+suretrust@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Senior Manager, Microsoft </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -80,9 +80,6 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
 <p>
   This project involved Developing an E-learning platform using HTML, CSS, and JavaScript with a responsive user interface. The application was containerized using Docker and deployed on AWS for scalable and reliable access.
 </p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <!-- Project 2 -->
 <h3 id="project2">Project 2: Library Management System </h3>
@@ -90,7 +87,7 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
   Developed a Library Management System using React and Kubernetes Ingress for efficient routing. The application was deployed on a KIND cluster and integrated with MongoDB for reliable data storage and management.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -98,7 +95,6 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
 <!--you can add refrences over here in same syntax as above -->
 ---
 
