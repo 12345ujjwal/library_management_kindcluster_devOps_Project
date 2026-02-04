@@ -69,9 +69,9 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; E-Learning Platform → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; E-Learning Platform --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt; Library Management System→ --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt; Library Management System --&gt;</p>
 
 </div>
 
@@ -106,13 +106,10 @@ During my internship in Cloud Computing and DevOps, I gained hands-on experience
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-The LST and SST sessions at the Skill India Institute played a significant role in shaping my professional and personal development. These sessions enhanced my understanding of professional ethics, effective communication, and workplace awareness. Through work culture and advocacy discussions, I developed a strong appreciation for integrity, gender equality, and respectful conduct in professional environments. Additionally, yoga and mindfulness practices helped me build self-discipline and manage stress effectively, while community engagement with elderly citizens strengthened my empathy and sense of social responsibility. Overall, these sessions contributed to my career readiness, personal growth, and a balanced lifestyle.
+The LST and SST sessions at the Sure Trust Foundation played a significant role in shaping my professional and personal development. These sessions enhanced my understanding of professional ethics, effective communication, and workplace awareness. Through work culture and advocacy discussions, I developed a strong appreciation for integrity, gender equality, and respectful conduct in professional environments. Additionally, yoga and mindfulness practices helped me build self-discipline and manage stress effectively, while community engagement with elderly citizens strengthened my empathy and sense of social responsibility. Overall, these sessions contributed to my career readiness, personal growth, and a balanced lifestyle.
 
 ## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented and professional development activities organized through the LST and SST sessions at the Skill India Institute. These initiatives were designed to build a bridge between technical expertise and social responsibility. By engaging in both social service and professional ethics workshops, I developed a well-rounded perspective on my role as both an engineer and a responsible citizen.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
@@ -137,8 +134,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
